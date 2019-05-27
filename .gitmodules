@@ -1,0 +1,3 @@
+[submodule "code/non-negative-rescal"]
+	path = code/non-negative-rescal
+	url = https://gitlab.com/dekromp/non-negative-rescal
