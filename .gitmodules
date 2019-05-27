@@ -4,3 +4,6 @@
 [submodule "code/rescal.py"]
 	path = code/rescal.py
 	url = https://github.com/mnick/rescal.py
+[submodule "code/scikit-tensor"]
+	path = code/scikit-tensor
+	url = https://github.com/mnick/scikit-tensor
