@@ -54,7 +54,7 @@ To install each of the above requirements run the following commands:
 
 <pre>
 <code>
-python -m pip install --user numpy scipy matplotlib ipython jupyter pandas sympy nose
+python -m pip install --user numpy scipy
 pip install -U scikit-learn
 pip install -U tabulate
 </code>
