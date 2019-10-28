@@ -86,6 +86,10 @@ Here
 - **--distance** can take a value from {*agency, transitivity, reverse_transitivity, patient*}
 - **--algo** can take a value from {*quadratic_constraint, quadratic_regularized, linear_constraint, linear_regularized*}
 
+# Output and Running time #
+
+Output will contains the performance for all datasets across all metric. The larger and longer the tensor more time it will take to run the model(s). 
+
 # Papers #
 The work is described in three papers.  The first is the most complete version, the second is a shorter journal-track paper version from the ISWC conference, and the third is an early, preliminary paper that explored some of the ideas.
 * Ankur Padia, Konstantinos Kalpakis, Francis Ferraro and Tim Finin, [Knowledge Graph Fact Prediction via Knowledge-Enriched Tensor Factorization](https://ebiquity.umbc.edu/paper/html/id/846/), Journal of Web Semantics, to appear, 2019.
